@@ -1,0 +1,37 @@
+*{
+    padding:0;
+    margin:0;
+    font-family:Arial;
+    background-color:#ffba00;
+    text-align: center;
+}
+.Top{
+    border:3px solid transparent;
+    display:block;
+    padding-top:50px;
+    padding-bottom:50px;
+}
+.container{
+ display: flex;
+ flex-direction: row;
+ justify-content:space-evenly;
+line-height: 50px;
+
+}
+.jm {
+  border: 9px solid transparent;
+}
+img{
+    height:400px;
+    width:250px;
+    
+}
+.V{
+    border:9px solid transparent;
+}
+.jin{
+    border: 9px solid transparent;
+}
+span{
+    color: azure;
+}
